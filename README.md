@@ -252,8 +252,6 @@ This section will be a step-by-step guide on what to learn when.
 I will attempt to avoid giving time estimates of how long learning something might take because that can be very discouraging.
 Instead I will give estimates of absolute words/characters learned when giving prerequisites to moving on.
 
-#### Beginner
-
 ##### Kana
 
 These will be your first steps.
