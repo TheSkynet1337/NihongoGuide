@@ -3,23 +3,19 @@
 1. What is this Document?
 2. How do you learn a Language?
 3. What parts of Japanese should you learn?
-4. Technology Interlude
-    - IME
-    - Anki
-    - Yomitan
-5. A guide to learning Japanese
-6. Learning to listen
+4. A guide to learning Japanese
+5. Learning to listen
     1. Sounds
     2. Rhythm
     3. Pitch
-7. Learning to read
+6. Learning to read
     1. Kana
     2. Kanji
     3. Grammar
-8. Learning to write
+7. Learning to write
     1. Kana
     2. Kanji
-9. Speaking
+8. Speaking
     1. The Silent period
 
 # What is this Document?
@@ -37,7 +33,6 @@ But I have spent a decent amount of time on learning Japanese, and thinking abou
 This Document will begin with a section on language learning theory,
 then it will use that theory to come to conclusions on how you might learn Japanese.
 It will then discuss what your study goals for Japanese are or maybe should be.
-I will give a short interlude on getting set-up on your PC and Phone so that you can actually use the learning methods suggested here.
 
 The main body of this document will then be a guided tour through learning Japanese,
 the tour will be opinionated and written in hindsight from someone who has been studying the language since 2017,
@@ -46,22 +41,16 @@ regularly my suggestions for what you should do will be differing.
 A lot has happened in the self learning community over the last couple years and good new tools have become available.
 
 Finally I will include sections on each of the four main pillars of learning a language.
-The contents of these will overlap with their respective section in the guide,
-however they will include alternative suggestions for tools and sources.
+The contents of these will overlap with their respective section in the guide.
 Sometimes there might be further discussion on the topic of the section that is not relevant enough to make it into the guide itself.
-These sections are probably only interesting to readers that want to dive deeper,
-get more links to things,
-or look up something without scrolling through the guide.
 
 ###### What is this Document not?
 
-It is not comprehensive,
-I suppose?
+It is not comprehensive.
 There are certainly other ways and methods to learn then are suggested here.
-It is not complete,
-most certainly.
+It is not complete.
 This is definitely a work in progress and by no means a full brain dump of my language learning thoughts.
-I find it doubtfull that it could ever be.
+I find it doubtful that it could ever be.
 If you have questions,
 you might know how to reach me,
 if you do feel free to ask away.
@@ -69,7 +58,7 @@ if you do feel free to ask away.
 # How do you learn a Language?
 
 The central pillar around which the learning methods described in this document are build is the idea of the 'Input hypothesis.'
-Most of the time the linguist Stephen Krashen is credited with either cumming up with this theory or at least popularizing it.
+Most of the time the linguist [Stephen Krashen](https://youtu.be/NiTsduRreug) is credited with either cumming up with this theory or at least popularizing it.
 So what does the input hypothesis state?
 The long and short of it is,
 that how humans of any age acquire language is not much different to how children learn it.
@@ -244,23 +233,24 @@ expect for hand writing Kanji.
 Don't focus on learning or understanding higher levels of formal language early on,
 you will acquire it eventually.
 
-# Technology Interlude
-
 # A guide to learning Japanese
 
 This section will be a step-by-step guide on what to learn when.
 I will attempt to avoid giving time estimates of how long learning something might take because that can be very discouraging.
 Instead I will give estimates of absolute words/characters learned when giving prerequisites to moving on.
+But one time based estimate I can give right away is that acquiring Japanese is not something that you complete in a span of months.
+Acquiring any language takes years.
 
 ##### Kana
 
 These will be your first steps.
 Congrats~
 
-Grab some kind of Anki deck for Hiragana and Katakana.
-[NativShark](https://www.nativshark.com/) costs money but they also teach the Kana and have follow on content after that.
-Do Tofugu's [Kana practice](https://kana-quiz.tofugu.com/) or [Real Kana](https://realkana.com/study).
+My Suggestion is [NativShark](https://www.nativshark.com/) it costs money they teach the Kana and have follow on content after that.
+As of right now NativShark is my suggested choice for learning Kana, Vocabulary, Kanji, and grammar.
+Substitute by doing Tofugu's [Kana practice](https://kana-quiz.tofugu.com/) or [Real Kana](https://realkana.com/study).
 If you can memorize them better by hand writing, do that.
+Another option that is free is Anki with an appropriate deck for Hiragana and Katakana.
 There are roughly 70 Hiragana and for each a corresponding Katakana.
 If you manage a couple a day it should not take you long until you have seen all of them at least once.
 Learning to read these will be a prerequisite to any good reading based study from now on so the faster you finish these the better.
@@ -298,11 +288,14 @@ filling the entry in with correct information happens during immersion.
 If you want to be able to hand write Kanji this is where you have to diverge from what I would suggest and use Heisig's Remembering the Kanji instead (Vol. 1 and 3. skip Vol. 2.).
 See writing section for further discussion.
 
-I will list some of my suggestions here:
+My suggestion:
 
-- [NativShark](https://www.nativshark.com/) (monthly or lifetime): teaches Kana, Kanji and vocabulary.
-- [Anki](https://apps.ankiweb.net/) (free): get a [3k deck](https://ankiweb.net/shared/decks?search=Japanese%20Core&sort=rating) with audio that has the word in a sentence on the front and a translation on the back, no need to go too fancy.
+- [NativShark](https://www.nativshark.com/) (monthly or lifetime): teaches Kana, Kanji, Grammar and vocabulary.
 - [WaniKani](https://www.wanikani.com/) (monthly or lifetime): teaches Kanji and vocabulary, you should supplement this with a 3k deck as their vocabulary is not necessarily every day type stuff.
+
+Other useful tools:
+
+- [Anki](https://apps.ankiweb.net/) (free): get a [3k deck](https://ankiweb.net/shared/decks?search=Japanese%20Core&sort=rating) with audio that has the word in a sentence on the front and a translation on the back, no need to go too fancy.
 - [JPDB](https://jpdb.io/) (free): teaches Kanji and vocabulary based on frequency in a given piece of content.
 - [Migaku](https://migaku.com/) (monthly or lifetime): They have a from 0 course but I don't know its quality, this is in this list because it is a great tool for making your own flashcards once you are at the intermediary/advanced level
 
@@ -343,8 +336,11 @@ I suggest you sit through this feeling and think of it as building your ['Japane
 My suggestions:
 
 - [CureDol Videos](https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (free): Without a doubt the best grammar videos I have seen on YouTube. The voice-over audio quality can be lacking but subtitles are available.
-- [Tae Kim's Guide](https://guidetojapanese.org/learn/category/grammar-guide/basic-grammar/) (free): This is a genuine classic, I would suggest this for light grammar reading. Read the lesson and examples but skip the exercises. Or do them if you feel like doing drills.
 - [NativShark](https://www.nativshark.com/) (monthly or lifetime): Grammar lessons are usually a light explanation of meaning and nuance and some example sentences.
+
+Other Options:
+
+- [Tae Kim's Guide](https://guidetojapanese.org/learn/category/grammar-guide/basic-grammar/) (free): This is a genuine classic, I would suggest this for light grammar reading. Read the lesson and examples but skip the exercises. Or do them if you feel like doing drills.
 - [Bunpro](https://bunpro.jp/) (monthly or lifetime): This is a grammar SRS,
 there is explanations and examples for each grammar point and then flash cards where you fill in the correct grammar form.
 This boosted my grammar knowledge around advanced grammar (N2 level) when I did it originally.
@@ -417,12 +413,12 @@ but you understand the content.
 
 My suggestions for early Audio immersion:
 
+- 'Comprehensible Input' YouTube videos, even better if you can find them without forced English subtitles.
 - Slice of Life Anime you have seen before.
 Stuff like Flying Witch.
 These shows are meant to be comfortable and easy to watch.
 A younger target audience will mean the content is easier.
 - Be careful with Sci-Fi and Fantasy, that stuff is hard and filled with made up words.
-- 'Comprehensible Input' YouTube videos, even better if you can find them without forced English subtitles.
 - Anything you can get yourself to watch and pay attention to without subtitles.
 
 I will repeat here, this will be painful for many hours.
@@ -432,7 +428,7 @@ it just really does not feel like that early on.
 If you care about having a good accent later on this is the time when you should make yourself aware of pitch accent.
 [Dogen's videos](https://www.youtube.com/watch?v=O6AoilGEers&list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP) are a classic suggestion here.
 Anything beyond the free videos on YouTube is most likely unnecessary.
-Don't memorize the rules beyond the most basic ones.
+Awareness is really all we are going for here so don't memorize the rules beyond the most basic ones.
 Once you are aware what pitch is do [Kotu.io's Minimal Pairs Test](https://kotu.io/tests/pitchAccent/perception/minimalPairs) after you finish your SRS reviews.
 Just a couple minutes each day.
 Eventually you will start noticing the pitch accent of words in your immersion.
@@ -444,7 +440,7 @@ So even if this does not seem immediately useful it is a good idea to do.
 ###### When do I start immersing through reading?
 
 The longer you wait the better your accent will likely be.
-But if you are like me you enjoy reading Manga to much to wait long.
+But if you are like me you enjoy reading Manga too much to wait long.
 Also learning Kanji is like a hack that allows you to read content that other learners complain about being hard,
 so obviously you want to abuse that power.
 Anyways, a fourth grader should know roughly six hundred Kanji and an appropriate amount of vocabulary.
