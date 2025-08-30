@@ -347,6 +347,7 @@ If you already feel like you are doing too much SRS don't start this
 If you are studying to take a certification this is probably good.
 
 Once you have learned basic grammar, a couple hundred words, and a couple hundred Kanji it is time to start acquiring via active immersion.
+You can probably move on earlier if you start out doing comprehensible input stuff for immersion.
 
 Stuff to do in parallel:
 
@@ -358,6 +359,8 @@ Stuff to do in parallel:
 
 This is the initially painful but eventually fun part of learning a language.
 Immersion in this context does not refer to living in Japan or being there.
+Watch [this](https://youtu.be/FPsg6sdrN6M) by Matt,
+he explains the typical hole that immersion learners hit after using comprehensible input for a while and suggests ideas to get over it.
 
 Immersion is the act of getting input in Japanese.
 Getting input is what most of your study time should be used for.
