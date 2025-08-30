@@ -216,7 +216,6 @@ I have not explicitly learned how to hand write Kanji and I suggest you do the s
 I would still suggest you learn the basic stroke order rules at some point.
 This and reading will mean that you naturally acquire how to write some of the easiest most popular Kanji from memory.
 But you should learn how to use your PC or phone to digitally write Japanese.
-The technology interlude will help you set up an IME (Input Method Editor) so you can start typing in Japanese.
 If you want to do written output I'd suggest doing it digitally.
 
 ##### Speaking
