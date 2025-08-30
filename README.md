@@ -240,7 +240,7 @@ Instead I will give estimates of absolute words/characters learned when giving p
 But one time based estimate I can give right away is that acquiring Japanese is not something that you complete in a span of months.
 Acquiring any language takes years.
 
-##### Kana
+#### Kana
 
 These will be your first steps.
 Congrats~
@@ -260,7 +260,7 @@ Stuff to do in parallel:
 
 - Passive listening
 
-##### Vocabulary and Kanji
+#### Vocabulary and Kanji
 
 Use a spaced repetition system (SRS) to start learning the most used words.
 I suggest you don't spend a huge amount of time on which service to use or setting it up.
@@ -314,7 +314,7 @@ Stuff to do in parallel:
 - Passive listening
 - Finish learning Katakana
 
-##### Grammar
+#### Grammar
 
 You can probably learn all of grammar through immersion.
 But one of the few advantages we have as an adult learner of a language is that we can actively study things and make connections between parts of the language that a child will not be making.
@@ -354,7 +354,7 @@ Stuff to do in parallel:
 - Learning Vocabulary
 - Learning Kanji
 
-##### Immersion
+#### Immersion
 
 This is the initially painful but eventually fun part of learning a language.
 Immersion in this context does not refer to living in Japan or being there.
@@ -374,7 +374,7 @@ Meaningfully immersing in written Japanese will be impossible for quite some tim
 When talking about getting listening input the community often refers to two modes,
 active and passive.
 
-###### Passive Immersion or Passive Listening
+##### Passive Immersion or Passive Listening
 
 Passive immersion is listening to content without fully focusing on it.
 A podcast open in the background whilst doing something else.
@@ -390,7 +390,7 @@ And every now and then whilst listening you might go:
 Oh hey,
 I know that word it means X.
 
-###### Active Immersion
+##### Active Immersion
 
 Active immersion is when you are consuming something and are trying to get invested in the content,
 you make it main monitor content.
@@ -436,7 +436,7 @@ because you will likely not become capable of hearing pitch unless your native l
 We are trying to stop you from building a caloric shortcut.
 So even if this does not seem immediately useful it is a good idea to do.
 
-###### When do I start immersing through reading?
+##### When do I start immersing through reading?
 
 The longer you wait the better your accent will likely be.
 But if you are like me you enjoy reading Manga too much to wait long.
@@ -465,7 +465,7 @@ Reading stuff with Furigana (the small Kana above/next to the word that spell ou
 books are great at an intermediate level because they use a lot of descriptive language that you are probably lacking from audio immersion and Manga.
 But this descriptive language can be really tough early on.
 
-###### How much time should I be spending on what?
+##### How much time should I be spending on what?
 
 Honestly this is up to you but probably at least an equal amount of time on SRS and immersion.
 The more immersion the better.
@@ -475,7 +475,7 @@ In order of most important to least important:
 
 SRS Reviews -> Immersion -> New Words in SRS -> New Kanji in SRS
 
-###### And there you are
+##### And there you are
 
 welcome to the hamster wheel.
 As long as you keep spinning the 'SRS for learning, immersion for acquisition' flywheel your learning will accelerate.
@@ -502,12 +502,12 @@ At this point keeping the motivation up to keep doing the SRS might be the more 
 but hopefully you either gain that motivation through the knowledge and lived experience that it helps your immersion,
 or you simply have formed the habit of doing it.
 
-###### And that's it folks~
+##### And that's it folks~
 
 Wait you're done?
 What about speaking?
 
-##### Speaking
+#### Speaking
 
 The guide on actually acquiring Japanese ended in the last part.
 
