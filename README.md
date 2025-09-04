@@ -441,7 +441,7 @@ but you understand the content.
 
 My suggestions for early Audio immersion:
 
-* 'Comprehensible Input' YouTube videos,
+* 'Comprehensible Input' such as [CIJapanese](https://cijapanese.com/watch) or YouTube videos,
 even better if you can find them without forced English subtitles.
 
 * Slice of Life Anime you have seen before.
